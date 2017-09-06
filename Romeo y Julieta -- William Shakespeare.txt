@@ -2070,5 +2070,10 @@ es la de Julieta y Romeo. Muy triste y zombi, si es verdad.
 
 Pero la verdad es que Romeo y Julieta eran zombis, salieron de sus tumbas, fueron felices y comieron cerebros.
 
+<<<<<<< HEAD
 Por mí
 ABC
+=======
+RyJ se integraron en Mr. Robot
+
+>>>>>>> refs/heads/develop
